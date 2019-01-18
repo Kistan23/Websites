@@ -57,9 +57,13 @@ ul li{
   margin-bottom: 6px;
 }
 
+ul li:hover{
+  transform:rotateZ(30deg);
+}
+
 ul li a {
   text-decoration: none;
-  color: fff;
+  color: #fff;
 }
 
 ul li a:hover {
